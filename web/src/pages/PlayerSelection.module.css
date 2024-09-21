@@ -1,26 +1,26 @@
 .playerList {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
   
-  .playerItem {
-    background-color: #f2f2f2;
-    padding: 10px;
-    border-radius: 5px;
-  }
-  
-  .submitButton {
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  .submitButtonDisabled {
-    background-color: #ccc;
-    cursor: not-allowed;
-  }
+.playerItem {
+  background-color: #f2f2f2;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.submitButton {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.submitButtonDisabled {
+  display: none;
+}

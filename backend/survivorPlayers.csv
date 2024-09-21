@@ -1,9 +1,9 @@
 name,age,tribe,hometown,current_residence,occupation,image_url
 Andy Rueda,31,3,"Buffalo, NY","Brooklyn, NY",AI research assistant,"https://variety.com/wp-content/uploads/2024/09/3003745_0006b.jpg?w=667"
 Anika Dhar,26,3,"Santa Rosa, CA","Los Angeles, CA",Marketing manager,"https://variety.com/wp-content/uploads/2024/09/3003745_0201b.jpg?w=667"
-Aysha Welch,32,2,"DeSoto, TX","Houston, TX","https://variety.com/wp-content/uploads/2024/09/3003745_0336b.jpg?w=667",IT Consultant
-Caroline Vidmar,27,1,"Palos Verdes, California","Chicago, IL","https://variety.com/wp-content/uploads/2024/09/3003745_0435b.jpg?w=667",Strategy consultant
-Gabe Ortis,26,1,"Baltimore, MD","Baltimore, MD","https://variety.com/wp-content/uploads/2024/09/3003745_0604b.jpg?w=667",Radio show host
+Aysha Welch,32,2,"DeSoto, TX","Houston, TX",IT Consultant,"https://variety.com/wp-content/uploads/2024/09/3003745_0336b.jpg?w=667"
+Caroline Vidmar,27,1,"Palos Verdes, California",Strategy consultant,"Chicago, IL","https://variety.com/wp-content/uploads/2024/09/3003745_0435b.jpg?w=667"
+Gabe Ortis,26,1,"Baltimore, MD","Baltimore, MD",Radio show host,"https://variety.com/wp-content/uploads/2024/09/3003745_0604b.jpg?w=667"
 Genevieve Mushaluk,33,2,"Winnipeg, Manitoba","Winnipeg, Manitoba",Corporate lawyer,"https://ew.com/thmb/t1mrS1fWwpfu8F4HnB9RTLaCwBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GENEVIEVE-MUSHALUK-083024-b7eb811ae0d54d8b82570a9005ea40ce.jpg"
 Jon Lovett,42,3,"Long Island, NY","Los Angeles, CA",Podcast host,"https://variety.com/wp-content/uploads/2024/09/3003745_0884b.jpg?w=667"
 Kishan Patel,28,2,"Fullerton, CA","San Francisco, CA",ER doctor,"https://variety.com/wp-content/uploads/2024/09/3003745_1019b.jpg?w=667"
