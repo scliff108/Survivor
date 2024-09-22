@@ -1,15 +1,3 @@
-.playerList {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-  
-.playerItem {
-  background-color: #f2f2f2;
-  padding: 10px;
-  border-radius: 5px;
-}
-
 .submitButton {
   margin-top: 20px;
   padding: 10px 20px;
